@@ -1,1 +1,11 @@
 <?php
+/*
+Plugin Name: Alteração de Rodapé
+Plugin URI:
+Description: Primeiro plugin criado para realizar alterações de rodapé
+Version: 1.0
+Author: Vinícius Pereira de Oliveira
+Author URI:
+Text Domain:
+License:
+*/
